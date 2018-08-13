@@ -15,7 +15,6 @@
     <preference name="StatusBarStyle" value="default" />
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="deployment-target" value="7.1.2" />
     <access origin="*" />
     <content src="index.html" />
      <platform name="windows">
